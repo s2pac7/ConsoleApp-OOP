@@ -1,0 +1,13 @@
+﻿  dataManager.cpp
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(48,3): warning C5033: "register" больше не является поддерживаемым классом хранения.
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(84,3): warning C5033: "register" больше не является поддерживаемым классом хранения.
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(120,3): warning C5033: "register" больше не является поддерживаемым классом хранения.
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(231,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(377,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(412,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(586,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\dataManager.cpp(654,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  menu.cpp
+  Создание кода...
+  TourPackage.vcxproj -> D:\3 сем\КурсачООПиП\Курсовая работа\TourPackage\x64\Debug\TourPackage.exe
